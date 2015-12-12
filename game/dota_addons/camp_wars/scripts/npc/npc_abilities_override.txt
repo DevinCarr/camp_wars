@@ -3,12 +3,12 @@
 "DOTAAbilities"
 {
   "Version"   "1"
-  
-  
+
+
   // -----------------------------------------------------------
   // - UNCOMMENT ANY ITEM YOU DON'T WANT TO APPEAR IN THE SHOP -
   // -----------------------------------------------------------
-  
+
   //"item_blink"      "REMOVE"
   //"item_blades_of_attack"     "REMOVE"
   //"item_broadsword"     "REMOVE"
@@ -92,8 +92,8 @@
   //"item_mekansm"      "REMOVE"
   //"item_recipe_vladmir"     "REMOVE"
   //"item_vladmir"      "REMOVE"
-  //"item_flying_courier"     "REMOVE"
-  //"item_recipe_buckler"     "REMOVE"
+  "item_flying_courier"     "REMOVE"
+  "item_recipe_buckler"     "REMOVE"
   //"item_buckler"      "REMOVE"
   //"item_recipe_ring_of_basilius"      "REMOVE"
   //"item_ring_of_basilius"     "REMOVE"
@@ -223,8 +223,8 @@
   //"item_recipe_tranquil_boots"      "REMOVE"
   //"item_tranquil_boots"     "REMOVE"
   //"item_shadow_amulet"      "REMOVE"
-  
-  
+
+
   //"item_halloween_candy_corn"     "REMOVE"
   //"item_mystery_hook"     "REMOVE"
   //"item_mystery_arrow"      "REMOVE"
@@ -246,24 +246,24 @@
   //"item_winter_greevil_treat"     "REMOVE"
   //"item_winter_greevil_garbage"     "REMOVE"
   //"item_winter_greevil_chewy"     "REMOVE"
-  
+
   //"item_recipe_moon_shard"      "REMOVE"
-  //"item_moon_shard"     "REMOVE"  
-  //"item_enchanted_mango"      "REMOVE"  
-  //"item_recipe_travel_boots_2"      "REMOVE"  
-  //"item_travel_boots_2"     "REMOVE"  
-  //"item_recipe_lotus_orb"     "REMOVE"  
-  //"item_lotus_orb"      "REMOVE"  
-  //"item_recipe_crimson_guard"     "REMOVE"  
-  //"item_crimson_guard"      "REMOVE"  
-  //"item_recipe_silver_edge"     "REMOVE"  
-  //"item_silver_edge"      "REMOVE"  
-  //"item_recipe_octarine_core"     "REMOVE"  
-  //"item_octarine_core"      "REMOVE"  
-  //"item_recipe_solar_crest"     "REMOVE"  
-  //"item_solar_crest"      "REMOVE"  
-  //"item_recipe_guardian_greaves"      "REMOVE"  
-  //"item_guardian_greaves"     "REMOVE"  
-  //"item_recipe_glimmer_cape"      "REMOVE"  
-  //"item_glimmer_cape"     "REMOVE"  
+  //"item_moon_shard"     "REMOVE"
+  //"item_enchanted_mango"      "REMOVE"
+  //"item_recipe_travel_boots_2"      "REMOVE"
+  //"item_travel_boots_2"     "REMOVE"
+  //"item_recipe_lotus_orb"     "REMOVE"
+  //"item_lotus_orb"      "REMOVE"
+  //"item_recipe_crimson_guard"     "REMOVE"
+  //"item_crimson_guard"      "REMOVE"
+  //"item_recipe_silver_edge"     "REMOVE"
+  //"item_silver_edge"      "REMOVE"
+  //"item_recipe_octarine_core"     "REMOVE"
+  //"item_octarine_core"      "REMOVE"
+  //"item_recipe_solar_crest"     "REMOVE"
+  //"item_solar_crest"      "REMOVE"
+  //"item_recipe_guardian_greaves"      "REMOVE"
+  //"item_guardian_greaves"     "REMOVE"
+  //"item_recipe_glimmer_cape"      "REMOVE"
+  //"item_glimmer_cape"     "REMOVE"
 }
